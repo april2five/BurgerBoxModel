@@ -86,7 +86,7 @@ a {
 }
 
 .nurtri{
-  margin: 40px 0px 110px 0px;
+  margin: 40px 0px 70px 0px;
 }
 
 .nurtri li{
@@ -127,4 +127,18 @@ footer a{
   font-weight: 100;
   background-color: white;
   padding: 3px;
+}
+
+.supporting{
+  margin-bottom: 130px;
+}
+
+.col{
+  display: inline-block;
+  width: 200px;
+  margin: 10px 10px;
+}
+
+.col img{
+  height: 50px;
 }
